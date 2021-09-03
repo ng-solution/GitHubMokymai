@@ -8,7 +8,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             List<string> Sarasas = new List<string>();
-            foreach (string itm in sarasas)
+            foreach (string itm in Sarasas)
             {
                 Console.WriteLine(itm);
             }
