@@ -8,9 +8,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             List<string> Sarasas = new List<string>();
+<<<<<<< HEAD
             foreach (string item in Sarasas) ;
+=======
+            foreach (string itm in Sarasas)
+>>>>>>> parent of 64ce673 (Paskutinis dar 2)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(itm);
             }
         }
     }
